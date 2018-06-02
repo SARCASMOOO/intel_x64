@@ -4,3 +4,12 @@ Each file is an example of some basic x64 assembly. x64 is the 64 bit extension 
 
 To compile using NASM type: nasm -f elf64 filename.asm
 Link object files with    : ld -o filename filename.o
+
+
+  
+
+TODO
+Wright bootloader for next project in x_86 
+ 
+Contributors
+:stackSmasherx64: Steven Stapleton
